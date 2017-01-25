@@ -1,4 +1,4 @@
-# Millennials to Snake People
+# Millennials to Ungovernable
 
 Browser extension that reveals the *real* truth behind Millennials.
 
